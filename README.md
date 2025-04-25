@@ -19,8 +19,8 @@ The prototype features an interactive scatter plot showing mock data for CD3 vs.
 5. Open http://localhost:3000 in your browser.
 
 ## Deployment
-- Live demo: [Insert Netlify/GitHub Pages URL after deployment]
-- Deployed using Netlify with a simple `npm run build` and drag-and-drop.
+- Live demo: https://spatial-dashboard-pow.vercel.app/
+- Deployed using Vercel
 
 ## Challenges Overcome
 - Learned Plotly.js basics for interactive plotting.
